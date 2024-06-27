@@ -1,0 +1,9 @@
+@article{walbrin2024finegrained,
+  title={Fine-grained knowledge about manipulable objects is well-predicted by CLIP},
+  author={Walbrin, Jon and Sossounov, Nikita and Mahdiani, Morteza and Vaz, Igor and Almeida, Jorge},
+  journal={iScience},
+  year={2024},
+  publisher={Cell Press},
+  url={https://www.cell.com/iscience/fulltext/S2589-0042(24)01522-0},
+  doi={10.1016/j.isci.2024.110297}
+}
